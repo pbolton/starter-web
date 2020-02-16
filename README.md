@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 Deploy using Octopus ?
 
 ## How To Contribute
+
+Send funds
+
+## New Section
