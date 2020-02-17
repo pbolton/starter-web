@@ -15,3 +15,5 @@ Deploy using Octopus ?
 Send funds
 
 ## New Section
+
+## Copyright
