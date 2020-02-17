@@ -12,7 +12,7 @@ Deploy using Octopus ?
 
 ## How To Contribute
 
-Send funds
+Changed this
 
 ## New Section
 
