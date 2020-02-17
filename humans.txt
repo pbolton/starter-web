@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    joe bloggs team-leader jblogs@twitter.com
 
 # THANKS
 
