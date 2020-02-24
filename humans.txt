@@ -4,10 +4,11 @@
 # TEAM
 
     joe bloggs team-leader jblogs@twitter.com
+	billy bunter team-leader bbunter@twitter.com
 
 # THANKS
 
-    <name>
+    Peter Bolton
 
 # TECHNOLOGY COLOPHON
 
